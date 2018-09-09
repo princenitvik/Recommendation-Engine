@@ -1,5 +1,5 @@
 # amazon-recommender-system
-recommender system of amazon product ( for final project of CSE544 )
+recommender system of amazon product 
 
 ## An Optimized Recommender System from Integrating Multiple Algorithms
  project by : Prince Nitvik
